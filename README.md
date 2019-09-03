@@ -1,2 +1,1 @@
-# gif-cats.io
-cutie cats
+# GIF CATS
